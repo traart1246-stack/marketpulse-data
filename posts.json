@@ -63,7 +63,9 @@
    }
   ],
   "one": "측정은 설치가 아니라 정의에서 시작된다: 무엇을 전환으로 볼지 먼저 정하라.",
-  "sub": "데이터·측정"
+  "sub": "데이터·측정",
+  "img": "https://raw.githubusercontent.com/traart1246-stack/marketpulse-data/main/img/mp-ga4.png",
+  "imgc": "MarketPulse 제작 도식 · GA4 데이터 구조"
  },
  {
   "id": "tip20261105-gtm",
@@ -127,7 +129,9 @@
    }
   ],
   "one": "태그는 코드가 아니라 약속이다. 이름 규칙부터 정하라.",
-  "sub": "데이터·측정"
+  "sub": "데이터·측정",
+  "img": "https://raw.githubusercontent.com/traart1246-stack/marketpulse-data/main/img/mp-gtm.png",
+  "imgc": "MarketPulse 제작 도식 · GTM 구성요소"
  },
  {
   "id": "tip20261105-naver-sa",
@@ -177,7 +181,9 @@
    }
   ],
   "one": "키워드는 많이 넣는 것이 아니라, 의도별로 나눠 관리하는 것이다.",
-  "sub": "검색광고"
+  "sub": "검색광고",
+  "img": "https://raw.githubusercontent.com/traart1246-stack/marketpulse-data/main/img/mp-sa.png",
+  "imgc": "MarketPulse 제작 도식 · 검색광고 계정 구조"
  },
  {
   "id": "tip20261105-naver-brand",
@@ -834,7 +840,9 @@
    }
   ],
   "one": "광고는 채널이 아니라 구매 여정의 칸을 채우는 일이다.",
-  "sub": "스마트스토어·쇼핑"
+  "sub": "스마트스토어·쇼핑",
+  "img": "https://raw.githubusercontent.com/traart1246-stack/marketpulse-data/main/img/mp-funnel.png",
+  "imgc": "MarketPulse 제작 도식 · 구매 여정별 광고 역할"
  },
  {
   "id": "tip20261105-shopping-search",
@@ -995,7 +1003,9 @@
    }
   ],
   "one": "타겟이 좁아질수록 데이터가 모자라진다. 목적을 먼저 정하라.",
-  "sub": "SNS·디스플레이"
+  "sub": "SNS·디스플레이",
+  "img": "https://raw.githubusercontent.com/traart1246-stack/marketpulse-data/main/img/mp-kakao.png",
+  "imgc": "MarketPulse 제작 도식 · 카카오모먼트 타겟팅"
  },
  {
   "id": "tip20261105-instagram-ops",
@@ -1144,7 +1154,9 @@
    }
   ],
   "one": "상품이 어떻게 팔리는지 보면 채널이 정해진다.",
-  "sub": "콘텐츠 마케팅"
+  "sub": "콘텐츠 마케팅",
+  "img": "https://raw.githubusercontent.com/traart1246-stack/marketpulse-data/main/img/mp-quadrant.png",
+  "imgc": "MarketPulse 제작 도식 · 관여도×이성·감성 4분면"
  },
  {
   "id": "tip20261105-detail-page",
@@ -1240,7 +1252,9 @@
    }
   ],
   "one": "목표 없는 지표는 숫자 모음일 뿐이다.",
-  "sub": "데이터·측정"
+  "sub": "데이터·측정",
+  "img": "https://raw.githubusercontent.com/traart1246-stack/marketpulse-data/main/img/mp-kpi.png",
+  "imgc": "MarketPulse 제작 도식 · 목표 단계별 지표"
  },
  {
   "id": "tip20261105-looker",
@@ -1339,7 +1353,9 @@
    }
   ],
   "one": "앱 마케팅은 링크 한 줄의 파라미터에서 갈린다.",
-  "sub": "앱 마케팅"
+  "sub": "앱 마케팅",
+  "img": "https://raw.githubusercontent.com/traart1246-stack/marketpulse-data/main/img/mp-attribution.png",
+  "imgc": "MarketPulse 제작 도식 · 어트리뷰션 흐름"
  },
  {
   "id": "tip20261105-app-ecosystem",
@@ -1617,6 +1633,8 @@
    }
   ],
   "one": "설치 수가 아니라 설치 이후 7일의 수익으로 매체를 평가하라.",
-  "sub": "앱 마케팅"
+  "sub": "앱 마케팅",
+  "img": "https://raw.githubusercontent.com/traart1246-stack/marketpulse-data/main/img/mp-appmetrics.png",
+  "imgc": "MarketPulse 제작 도식 · 앱 지표 흐름"
  }
 ]
